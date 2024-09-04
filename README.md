@@ -33,11 +33,11 @@ This is a simple web application built using Streamlit that allows users to send
     pip install -r requirements.txt
 5. Alternatively, you can install the dependencies manually:
    ```bash
-   pip install streamlit
-Usage
+   pip install streamlitUsage
 6. Run the Streamlit app.
     ```bash
     streamlit run app.py
+    
 Open your web browser and go to the following URL:
 http://localhost:8501
 Use the web interface to input your email credentials, the recipients' email addresses, and the content of the email (subject and body).
